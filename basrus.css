@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.landing {
+    min-height: 100vh;
+    background: url("Black.jpg");
+    background-size:cover;
+    padding: 0rem 5rem;
+}
+
+h1 {
+    color:white;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+
+
+
+
+
